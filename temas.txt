@@ -1,0 +1,195 @@
+# TEMAS DAS MUDANÇAS AUTOMÁTICAS
+#
+# Em cada mudança é escolhido à sorte um dos temas ativos (os que não têm # no início).
+#   - Ativar um tema:     apaga o "# " do início da linha.
+#   - Desativar um tema:  volta a pôr "# " no início.
+#   - Só um tema ativo:   é sempre esse.
+#   - Nenhum tema ativo:  fotos aleatórias.
+#
+# Tudo o que vem depois de um # é ignorado, por isso a tradução ao lado não conta para a pesquisa.
+# Escreve os temas em inglês, porque o Unsplash encontra muito mais fotos
+# ("mountains" dá mais de 10.000, "montanhas" só 61).
+# Podes acrescentar temas teus em qualquer sítio do ficheiro.
+
+
+# ===== NATUREZA =====
+nature                         # natureza
+mountains                      # montanhas
+# snowy mountains              # montanhas com neve
+forest                       # floresta
+# foggy forest                 # floresta com nevoeiro
+waterfall                    # cascata
+lake reflection              # lago com reflexo
+# river valley                 # vale com rio
+# green hills                  # colinas verdes
+# flower field                 # campo de flores
+# desert dunes                 # dunas no deserto
+# canyon                       # desfiladeiro
+# volcano                      # vulcão
+# rainforest                   # floresta tropical
+bamboo forest                # bambuzal
+# glacier                      # glaciar
+ice cave                     # gruta de gelo
+# lavender field               # campo de lavanda
+# tulip field                  # campo de túlipas
+# sunflowers                   # girassóis
+# rice terraces                # socalcos de arroz
+# savanna                      # savana
+# moss                         # musgo
+
+# ===== MAR E PRAIA =====
+beach                          # praia
+ocean waves                  # ondas do mar
+# tropical beach               # praia tropical
+# cliffs ocean                 # falésias sobre o mar
+# lighthouse                   # farol
+# underwater                   # fundo do mar
+# surfing                      # surf
+coral reef                   # recife de coral
+# sailboat                     # veleiros
+# turquoise water              # água azul-turquesa
+# pier                         # pontão
+
+# ===== CÉU E ESPAÇO =====
+# sunset                       # pôr do sol
+# sunrise                      # nascer do sol
+northern lights              # aurora boreal
+milky way                    # via láctea
+starry night                 # céu estrelado
+clouds                       # nuvens
+storm                        # tempestade
+moon                         # lua
+galaxy                       # galáxia
+planets                      # planetas
+astronaut                    # astronautas
+lightning                    # relâmpagos
+rainbow                      # arco-íris
+hot air balloons             # balões de ar quente
+space
+
+# ===== CIDADES E ARQUITETURA =====
+city skyline                 # vista de cidade
+# city at night                # cidade à noite
+aerial city                  # cidade vista de cima
+modern architecture          # arquitetura moderna
+minimalist architecture      # arquitetura minimalista
+bridge                       # pontes
+street photography           # fotografia de rua
+# neon lights                  # luzes de néon
+castle                       # castelos
+# old town                     # centro histórico
+# cobblestone street           # ruas de calçada
+# temple                       # templos
+# skyscrapers                  # arranha-céus
+
+# ===== PORTUGAL =====
+lisbon                       # Lisboa
+# porto                        # Porto
+# sintra                       # Sintra
+# douro valley                 # vale do Douro
+# algarve                      # Algarve
+# madeira                      # Madeira
+# azores                       # Açores
+# nazare                       # Nazaré (ondas gigantes)
+# obidos                       # Óbidos
+# coimbra                      # Coimbra
+# aveiro                       # Aveiro
+# alentejo                     # Alentejo
+serra da estrela             # serra da Estrela
+
+# ===== VIAGENS PELO MUNDO =====
+# iceland                      # Islândia
+# norway fjords                # fiordes da Noruega
+# swiss alps                   # Alpes suíços
+# dolomites                    # Dolomitas
+# japan                        # Japão
+# kyoto                        # Quioto
+# santorini                    # Santorini
+# patagonia                    # Patagónia
+# new zealand                  # Nova Zelândia
+# bali                         # Bali
+# new york                     # Nova Iorque
+# paris                        # Paris
+# london                       # Londres
+# rome                         # Roma
+# venice                       # Veneza
+# prague                       # Praga
+# amsterdam                    # Amesterdão
+# tokyo                        # Tóquio
+# hong kong                    # Hong Kong
+# tuscany                      # Toscana
+# scottish highlands           # Terras Altas da Escócia
+# faroe islands                # ilhas Faroé
+# lofoten                      # ilhas Lofoten
+# hallstatt                    # Hallstatt
+# cappadocia                   # Capadócia
+# morocco                      # Marrocos
+# maldives                     # Maldivas
+# banff                        # Banff (Canadá)
+# yosemite                     # Yosemite (EUA)
+
+# ===== ESTAÇÕES E TEMPO =====
+# spring blossom               # flores de primavera
+# summer                       # verão
+autumn forest                # floresta no outono
+# winter landscape             # paisagem de inverno
+# snow                         # neve
+# rain                         # chuva
+# cherry blossom               # cerejeiras em flor
+# fog                          # nevoeiro
+
+# ===== ANIMAIS =====
+wildlife                     # vida selvagem
+# birds                        # aves
+# cats                         # gatos
+# dogs                         # cães
+# horses                       # cavalos
+# whales                       # baleias
+# fox                          # raposas
+# deer                         # veados
+# owl                          # mochos
+# butterflies                  # borboletas
+# jellyfish                    # alforrecas
+# penguins                     # pinguins
+# elephants                    # elefantes
+
+# ===== ABSTRATO E MINIMALISTA =====
+minimalist                   # minimalista
+abstract                     # abstrato
+# gradient                     # gradiente de cores
+# texture                      # texturas
+# geometric                    # geométrico
+macro                        # pormenores em grande plano
+aerial view                  # vista aérea
+# bokeh                        # luzes desfocadas
+# fluid art                    # tinta líquida
+# ink in water                 # tinta na água
+# marble                       # mármore
+# smoke                        # fumo
+# light trails                 # rastos de luz
+
+# ===== AMBIENTES E CORES =====
+# dark moody                   # escuro e sombrio
+# black and white              # preto e branco
+# pastel                       # tons pastel
+# golden hour                  # luz dourada do fim da tarde
+# blue hour                    # hora azul, logo depois do pôr do sol
+cozy                         # aconchegante
+# misty                        # enevoado
+warm tones                   # tons quentes
+# earth tones                  # tons terra
+# pink sky                     # céu cor-de-rosa
+
+# ===== OUTROS =====
+cars                         # carros
+trains                       # comboios
+# library                      # bibliotecas
+# vintage                      # vintage
+# cyberpunk                    # cyberpunk
+# cabin in the woods           # cabana na floresta
+# winding road                 # estrada com curvas
+# road trip                    # viagem de carro
+# camping                      # campismo
+airplanes                    # aviões
+# plants                       # plantas
+coffee                       # café

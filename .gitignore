@@ -1,0 +1,9 @@
+# Fotos descarregadas (inclui os creditos.txt de cada tema)
+fotos/
+creditos.txt
+
+# Estado local, gerado pelo script
+monitores.json
+registo.txt
+
+__pycache__/
